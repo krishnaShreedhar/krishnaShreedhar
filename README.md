@@ -1,7 +1,7 @@
-- 👋 Hi, my name is Shreedhar (@krishnaShreedhar)
-- 👀 I’m interested in using technology to spread the sublime message of Bhagavad-gita that is Krishna Consciousness.
-- 🌱 I’m currently learning how to design and manage my projects using python.
-- 💞️ I’m looking to collaborate on natural language processing, reinforcement learning, and intelligent tutoring systems.
+- 👋 Hi, my name is Shree (@krishnaShreedhar)
+- 👀 I’m interested in using technology to empower our generation to learn, grow, and lead an enriching life. I also want to use the latest tools to spread the sublime message of Bhagavad-gita that is Krishna Consciousness that can elevate our perception for each other and help us lead a harmonious life.
+- 🌱 I’m currently applying and simulataneously learning the art of designing and managing large scale AI/ML projects.
+- 💞️ I’m looking to collaborate on any Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Reinforcement Learning, and Data Science Problems.
 - 📫 Message me via LinkedIn: [https://www.linkedin.com/in/shreedhar-kodate/](https://www.linkedin.com/in/shreedhar-kodate/)
 
 <!---
